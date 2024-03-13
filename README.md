@@ -1,2 +1,3 @@
-- The best remote adminstration tool(RAT) ever, this tool include a Antivirus blocker and a WDExclusion
+- The best remote adminstration tool ever, this tool include a Antivirus blocker and a WDExclusion
+- And more cool stuff like the DisableWD and more 
 - ![Screenshot 2024-03-12 125434](https://github.com/0xRino/EtiRAT/assets/152611711/17e4c762-e49e-42e4-a493-6ae96d50740b)
