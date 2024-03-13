@@ -1,1 +1,2 @@
-![Screenshot 2024-03-12 125434](https://github.com/0xRino/EtiRAT/assets/152611711/669904c5-ec96-4393-949e-2e2043e6945c)
+- The best remote adminstration tool(RAT) ever, this tool include a Antivirus blocker and a WDExclusion
+- ![Screenshot 2024-03-12 125434](https://github.com/0xRino/EtiRAT/assets/152611711/17e4c762-e49e-42e4-a493-6ae96d50740b)
